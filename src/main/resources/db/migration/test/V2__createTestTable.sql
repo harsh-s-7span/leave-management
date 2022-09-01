@@ -1,4 +1,4 @@
-CREATE TABLE `student` (
+CREATE TABLE `tester` (
   `id` int(11) DEFAULT NULL,
   `name` varchar(10) DEFAULT NULL,
   `email` varchar(20) DEFAULT NULL
